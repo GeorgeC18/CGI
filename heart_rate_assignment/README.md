@@ -5,9 +5,6 @@ Note that all commands are done via the terminal.
 
 1. Open the project in its designated folder.
 
-If you have a different Python Interpreter, delete the venv folder and continue with 
-step 2. Otherwise, continue with step 5.
-
 Optional step: In case you do not have virtualenv installed, you can do so via the
 command: `pip install --user virtualenv`. Note that this is required for the following
 steps to come.
